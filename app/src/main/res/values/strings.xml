@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="txt1">Registro</string>
+    <string name="txt2">Ingresa los siguientes datos</string>
+    <string name="txt3">Nombre de usuario:</string>
+    <string name="txt4">Contraseña:</string>
+    <string name="txt5">Fecha de nacimiento:</string>
+    <string name="txt6">Género:</string>
+    <string name="btn4">Registrarse</string>
+    <string name="btn5">O si ya tienes cuenta, inicia sesión</string>
+</resources>
